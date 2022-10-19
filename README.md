@@ -9,9 +9,9 @@ This is the code of our paper: **CNet: A Calibrate Network for Citation Graph Cl
 
 
 ## Usage Example
-* CNet's Graph Data Augmentation (GDA) one trial on Cora:
+* CNet's Graph Data Augmentation (GDA) trial on Cora:
 ```jupyter notebook GDA/CNet(HF-ML).ipynb```
-* t-SNE one trial on Cora:
+* t-SNE trial on Cora:
 ```jupyter notebook t-SNE/t-SNE-Cora.ipynb```
 * Setting CNet's GNN experimental parameters:
 ```vi Config.ini ```
